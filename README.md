@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=DaniPalma2002)](https://git.io/streak-stats)
+
 <!--
 **DaniPalma2002/DaniPalma2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
