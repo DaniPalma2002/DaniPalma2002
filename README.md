@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniPalma2002&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true)
 -->
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniPalma2002&theme=nord)
